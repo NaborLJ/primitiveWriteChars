@@ -49,7 +49,7 @@ public class PrimitiveWriteChars {
         cadea+=textdin.readChar();
             }    
         System.out.println(cadea);
-        System.out.println("Numero de bytes leidos : ");
+        System.out.println("Numero de bytes leidos : "+aux);
         System.out.println("numero de bytes disponibeis: "+textdin.available());
         
         
